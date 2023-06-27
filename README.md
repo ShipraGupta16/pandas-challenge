@@ -1,5 +1,7 @@
 # Module 4 Challenge
 
+This challenge is about analyzing school and district-wide standardized test data. Data provided has every student's math and reading scores, as well as various information on the schools they attend. Our task is to aggregate the data to showcase obvious trends in school performance and summarize the analysis.
+
 ## PyCity Schools Analysis
 
 1) Charter schools have demonstrated remarkable academic success with a high overall passing percentage of over 90%, surpassing district schools. This achievement is particularly notable considering that charter schools operate with comparatively lower total school budgets. In contrast, district schools have struggled to achieve a passing percentage of over 55%, despite their higher total school budgets.<br></br>
